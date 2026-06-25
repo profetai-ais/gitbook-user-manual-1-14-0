@@ -14,7 +14,7 @@ API Key 可讓使用者建立專屬的 API 金鑰，供外部系統呼叫 AI Stu
 
 <figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
-> 請注意 : API Key 建立後，完整金鑰內容只會顯示一次。基於安全性考量，系統不會再次顯示完整金鑰，也無法協助查回原始金鑰。若金鑰遺失，請刪除原金鑰後重新建立。\
+> 注意 : API Key 建立後，完整金鑰內容只會顯示一次。基於安全性考量，系統不會再次顯示完整金鑰，也無法協助查回原始金鑰。若金鑰遺失，請刪除原金鑰後重新建立。\
 > 每位使用者最多可建立 1 把 API Key，如需產生新的 API Key，請先刪除原先的 API Key 後再重新生成。
 
 ### 管理 API Key

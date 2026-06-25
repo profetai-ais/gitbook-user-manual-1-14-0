@@ -12,7 +12,7 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 <figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
-### 介面導覽
+### 頁面導覽
 
 <figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 

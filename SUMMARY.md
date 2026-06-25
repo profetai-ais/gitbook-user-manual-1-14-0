@@ -37,7 +37,7 @@
 
 ## 排程指南
 
-* [排程概要](pai-cheng-zhi-nan/pai-cheng-gai-yao.md)
+* [排程](pai-cheng-zhi-nan/pai-cheng.md)
 
 ## 能力指南
 
@@ -53,6 +53,7 @@
 
 * [工作管理](fen-xi-zhi-nan/gong-zuo-guan-li.md)
 * [報告](fen-xi-zhi-nan/bao-gao.md)
+* [稽核日誌](fen-xi-zhi-nan/ji-he-ri-zhi.md)
 
 ## 系統設定指南
 
