@@ -56,36 +56,4 @@
 
 ## 權限
 
-建立者可以透過「權限」授予其他使用者存取權限（角色定義請參考[權限功能介紹](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md) )。
-
-> Note： 建立者是預設的「管理者」，每個項目只能有一個擁有者。
-
-<figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
-
-| 項目 | 操作名稱 | 說明                            |
-| -- | ---- | ----------------------------- |
-| 1  | 編輯表格 | 允許使用者編輯表格的呈現方式                |
-| 2  | 刷新   | 點擊後刷新列表                       |
-| 3  | 內容篩選 | 進階篩選指定內容                      |
-| 4  | 批次刪除 | 勾選項目後左上角的刪除按鈕便會顯示，可讓使用者刪除多個項目 |
-| 5  | 搜尋欄位 | 搜尋 名稱                         |
-| 6  | 邀請   | 邀請組織 / 成員                     |
-| 7  | 動作   | 轉移您的角色或刪除選定的使用者               |
-
-### **新增成員**
-
-<figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
-
-1. 點擊「添加」開&#x555F;_&#x65B0;增成&#x54E1;_&#x5C0D;話方塊
-2. 輸入框能搜尋組織或使用者
-3. 選擇對應的權限
-4. 輸入關鍵字跳出對應的組織/使用者
-5. 可點選右邊的層級按鈕確認角色的層級
-6. 選擇目標組織/使用者後，可點擊標籤打開檢視選單，檢視組織層級及角色內的所有使用者
-7. 點擊「添加」按鈕，完成邀請
+權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。

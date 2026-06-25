@@ -5,7 +5,8 @@
 * [AI Studio 基礎介紹](README.md)
 * [AI Studio 介面基礎介紹](ru-men-zhi-nan/ji-chu-jie-mian-jie-shao.md)
 * [AI Studio 角色與權限說明](ru-men-zhi-nan/ai-studio-jue-se-yu-quan-xian-shuo-ming.md)
-* [模組權限功能介紹](ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md)
+* [模組權限角色介紹](ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md)
+* [權限操作功能介紹](ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md)
 
 ## 個人設定
 

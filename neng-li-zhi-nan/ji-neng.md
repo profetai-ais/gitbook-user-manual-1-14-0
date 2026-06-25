@@ -130,3 +130,9 @@ SkillsMP API 會依據是否使用 API Key，套用不同的請求限制：
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+## 權限
+
+角色權限說明請參照 [模組權限角色介紹](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md) 。
+
+權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。

@@ -319,29 +319,7 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 
 ## 權限
 
-建立者可以透過「權限」授予其他使用者存取權限（角色定義請參考 )。
-
-> Note： 建立者是預設的「管理者」，每個項目只能有一個擁有者。
-
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
-
-<table><thead><tr><th width="80">項目</th><th width="146">操作名稱</th><th>說明</th></tr></thead><tbody><tr><td>1</td><td>編輯表格</td><td>允許使用者編輯表格的呈現方式</td></tr><tr><td>2</td><td>刷新</td><td>點擊後刷新列表</td></tr><tr><td>3</td><td>內容篩選</td><td>進階篩選指定內容</td></tr><tr><td>4</td><td>批次刪除</td><td>勾選項目後左上角的刪除按鈕便會顯示，可讓使用者刪除多個項目</td></tr><tr><td>5</td><td>搜尋欄位</td><td>搜尋 名稱</td></tr><tr><td>6</td><td>邀請</td><td>邀請組織 / 成員</td></tr><tr><td>7</td><td>動作</td><td>轉移您的角色或刪除選定的使用者</td></tr></tbody></table>
-
-### **新增成員**
-
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-1. 點擊「添加」開&#x555F;_&#x65B0;增成&#x54E1;_&#x5C0D;話方塊
-2. 輸入框能搜尋組織或使用者
-3. 選擇對應的權限
-4. 輸入關鍵字跳出對應的組織/使用者
-5. 可點選右邊的層級按鈕確認角色的層級
-6. 選擇目標組織/使用者後，可點擊標籤打開檢視選單，檢視組織層級及角色內的所有使用者
-7. 點擊「添加」按鈕，完成邀請
+權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。
 
 ## **Web App**
 
