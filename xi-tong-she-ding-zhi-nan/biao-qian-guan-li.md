@@ -4,23 +4,25 @@
 
 標籤管理功能可協助使用者透過標籤分類與管理系統中的項目。使用者可為每個項目加上不同標籤，方便在清單中快速辨識、篩選與查找目標項目。使用者可在此集中查看、建立、編輯或刪除標籤，並確認每個標籤所屬的功能模組。
 
-<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 ## 建立標籤
 
-<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
-1. 進入「系統設定」中的「標籤管理」頁面。
-2. 點選右上角「新增」按鈕。
-3. 輸入標籤名稱，亦可點擊右側按鈕建立多語言標籤，請參閱[ 多國語言設定](biao-qian-guan-li.md#duo-guo-yu-yan-she-ding)
-4. 選擇此標籤所屬的功能模組。
-5. 確認內容無誤後，點選儲存或建立。建立完成後，標籤會出現在標籤管理清單中。
+<figure><img src="../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+
+1. 進入「系統設定」中的「標籤管理」頁面
+2. 選擇要添加標籤的模組
+3. 點選右上角「新增」按鈕
+4. 輸入標籤名稱，亦可點擊右側按鈕建立多語言標籤，請參閱[ 多國語言設定](biao-qian-guan-li.md#duo-guo-yu-yan-she-ding)
+5. 確認內容無誤後，點選儲存或建立。建立完成後，標籤會出現在標籤管理清單中
 
 ### 多國語言設定
 
-<figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊畫面的「地球」按鈕進行自動翻譯，使用者也可以手動編輯內容
 2. 自動翻譯完成後點擊「確定」按鈕，儲存內容
@@ -45,13 +47,13 @@
 
 若選擇「不替換，刪除所有關聯」，系統會移除所有資料與此標籤的關聯。原資料本身不會被刪除，但資料上將不再保留此標籤。此動作完成後無法復原。
 
-<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
 
 1. 進入「標籤管理」頁面。
 2. 找到欲刪除的標籤，點選該列右側的刪除圖示。

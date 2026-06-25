@@ -133,17 +133,35 @@ SkillsMP API 會依據是否使用 API Key，套用不同的請求限制：
 >
 > 系統設定 → 配置 → 技能掃描設定
 
+## 版本歷史
+
+AI Studio 會保留技能的版本歷史，方便使用者查看過去的技能內容，並在需要時將技能還原至指定版本。使用者可在技能清單中點選技能名稱進入詳細頁面，點選後即可開啟該技能的內頁。
+
+### 查看版本歷史
+
+<figure><img src="../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+
+點選右上角歷史紀錄可開啟版本歷史視窗。使用者可以查看此 Skill 的歷史版本。右側會顯示各版本的版本號、建立時間與建立者資訊；點選任一版本後，中央區域會顯示該版本的 Skill 內容預覽。
+
+### 還原版本
+
+<figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+
+若需要將技能還原至過去版本，可在視窗中選擇要還原的版本，確認內容後點選**還原**。還原後，系統會將目前技能內容更新為所選版本的內容。建議在還原前先確認版本內容是否正確，以避免覆蓋目前的編輯結果。
+
+> 注意 : 還原版本會影響目前技能的內容，執行前請先確認選取的版本與內容是否符合需求。若多人共同維護同一個技能，建議在還原前先與相關維護者確認。
+
 ## 使用技能
 
 使用的位置分別有兩處 :
 
-* **Agent → 左側 Skill 設定**
+* **Agent → 左側技能設定**
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-* **Workflow → LLM Node → Skill 設定**
+* **Workflow → LLM Node → 技能設定**
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
