@@ -49,14 +49,18 @@
 
 ## 權限
 
-### 新增 MCP 權限
+清單權限說明請參照 [模組權限角色介紹- MCP 清單權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#mcp-qing-dan) 。
+
+權限設定說明請參照 [權限操作功能介紹- Root 權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#root-quan-xian) 。
+
+### MCP 權限
 
 角色權限說明請參照 [模組權限角色介紹- MCP 權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#mcp) 。
 
-權限使用說明請參照 [權限操作功能介紹-角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#object-quan-xian) 。
+權限設定說明請參照 [權限操作功能介紹- Object 角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#jue-se-quan-xian) 。
 
-### 新增 MCP 工具權限
+### MCP 工具權限
 
 角色權限說明請參照 [模組權限角色介紹- MCP 工具權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#mcp-gong-ju) 。
 
-權限使用說明請參照 [權限操作功能介紹-存取權限](https://app.gitbook.com/o/3oLImxEsxSvkDADSaakB/s/XzhN6fBmlaxG72PSF91Y/~/edit/~/changes/11/ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao#cun-qu-quan-xian) 。
+權限設定說明請參照 [權限操作功能介紹- Object 存取權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#cun-qu-quan-xian) 。

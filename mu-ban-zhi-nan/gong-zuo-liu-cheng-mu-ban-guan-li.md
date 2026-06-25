@@ -54,6 +54,17 @@
 4. 「描述」欄位中輸入知識描述後點擊右側按鈕建立多語言標籤，請參閱 [多國語言設定](gong-zuo-liu-cheng-mu-ban-guan-li.md#duo-guo-yu-yan-she-ding)
 5. 再點擊一次 "確定" 按鈕完成新增，新建立的流程將出現於模板列表中
 
+
+
 ## 權限
 
-權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。
+清單權限說明請參照 [模組權限角色介紹- 工作流程模板清單權限 ](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#gong-zuo-liu-cheng-mu-ban-qing-dan)。
+
+權限設定說明請參照 [權限操作功能介紹- Root 權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#root-quan-xian) 。
+
+### 工作流程模板權限
+
+角色權限說明請參照 [模組權限角色介紹- 工作流程模板權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#gong-zuo-liu-cheng-mu-ban) 。
+
+權限設定說明請參照 [權限操作功能介紹- Object 角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#jue-se-quan-xian) 。
+

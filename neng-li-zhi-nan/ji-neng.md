@@ -133,6 +133,13 @@ SkillsMP API 會依據是否使用 API Key，套用不同的請求限制：
 
 ## 權限
 
-角色權限說明請參照 [模組權限角色介紹](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md) 。
+清單權限說明請參照 [模組權限角色介紹- 技能清單權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#ji-neng-qing-dan) 。
 
-權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。
+權限設定說明請參照 [權限操作功能介紹- Root 權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#root-quan-xian) 。
+
+### 技能權限
+
+角色權限說明請參照 [模組權限角色介紹- 技能權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#ji-neng) 。
+
+權限設定說明請參照 [權限操作功能介紹- Object 角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#jue-se-quan-xian) 。
+

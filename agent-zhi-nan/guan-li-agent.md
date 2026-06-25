@@ -46,3 +46,15 @@
 2. 選擇「匯入檔案」
 3. 點擊欄位選擇匯入的檔案
 4. 點擊「確定」匯入指定的檔案
+
+## 權限
+
+清單權限說明請參照 [模組權限角色介紹- Agent 清單權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#agent-qing-dan) 。
+
+權限設定說明請參照 [權限操作功能介紹- Root 權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#root-quan-xian) 。
+
+### Agent 權限
+
+角色權限說明請參照 [模組權限角色介紹- Agent 權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#agent) 。
+
+權限設定說明請參照 [權限操作功能介紹- Object 角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#jue-se-quan-xian) 。

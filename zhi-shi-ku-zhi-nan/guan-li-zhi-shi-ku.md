@@ -42,3 +42,21 @@
 
 1. 點擊畫面的「地球」按鈕進行自動翻譯，使用者也可以手動編輯內容
 2. 自動翻譯完成後點擊「儲存」按鈕，儲存內容
+
+## 權限
+
+清單權限說明請參照 [模組權限角色介紹-知識庫清單權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#zhi-shi-ku-qing-dan) 。
+
+權限設定說明請參照 [權限操作功能介紹- Root 權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#root-quan-xian) 。
+
+### 知識權限
+
+角色權限說明請參照 [模組權限角色介紹-知識權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#zhi-shi) 。
+
+權限設定說明請參照 [權限操作功能介紹- Object 角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#jue-se-quan-xian) 。
+
+### 數據集權限
+
+角色權限說明請參照 [模組權限角色介紹-數據集權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#shu-ju-ji) 。
+
+權限設定說明請參照 [權限操作功能介紹- Object 存取權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#cun-qu-quan-xian) 。

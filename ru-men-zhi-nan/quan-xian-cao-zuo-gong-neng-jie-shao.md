@@ -4,17 +4,61 @@ description: AI Studio 的權限管理用於控制使用者可使用的功能，
 
 # 權限操作功能介紹
 
-## Root 權限
+## **Root 權限**
 
-#### **新增成員**
+### **開啟位置**
 
-#### **調整成員權限**
+Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開啟權限管理視窗。
 
-#### **移除成員**
+<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+
+### 介面導覽
+
+<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+
+| 項目 | 操作名稱    | 說明                             |
+| -- | ------- | ------------------------------ |
+| 1  | 選擇使用者   | 搜尋名稱或帳號加入使用者                   |
+| 2  | 選擇權限    | 選擇欲配置的清單權限                     |
+| 3  | 已加入的使用者 | 檢視已加入的使用者資訊以及其權限設定，可調整權限或移除使用者 |
+
+### **新增成員**
+
+<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+
+1. 輸入關鍵字搜尋欲加入的使用者
+2. 設定加入權限
+3. 點擊添加完成設定，權限設定會在對方刷新頁面後生效
+
+### **調整成員權限**
+
+<figure><img src="../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+
+1. 找到欲調整權限的目標使用者
+2. 點擊右側下拉選單，調整權限
+
+### **移除成員**
+
+<figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+
+1. 找到欲移除的目標使用者
+2. 點擊右側下拉選單，選擇移除
+
+### AI Studio 與 Root 權限同步
+
+登入後，系統會自動將清單權限補上 AI Studio 帳號當下的權限，例如: 帳號為 **AI Studio 協作者**，登入後自動補上 Agent、知識庫、能力(技能、MCP)、 模板(工作流程、提示詞)、分析(報告) 的**清單協作者**權限。
+
+此功能**只會在登入時觸發同步當前沒有權限的部分**，**不會影響現有的清單權限**，如果該帳號在 AI Studio 的權限有異動，不會觸發自動同步權限功能。
 
 ## Object 權限
 
 不同功能中的 Object 權限可能採用不同的權限模式。常見模式包含角色型權限與存取權限兩種。
+
+### **開啟位置**
+
+權限設定位於模組的物件內， 點擊目標物件後，選擇內頁的權限分頁，即可檢視權限管理頁面，這裡已 Agent 模組為範例。
+
+<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
 ### 角色權限
 
@@ -26,9 +70,11 @@ description: AI Studio 的權限管理用於控制使用者可使用的功能，
 * 可編輯該物件
 * 可檢視或使用該物件
 
-> 請注意 : 實際角色名稱與可操作範圍會依功能設計而不同（角色定義請參考[權限功能介紹](quan-xian-gong-neng-jie-shao.md) )。
+> 請注意 : 實際角色名稱與可操作範圍會依功能設計而不同（角色定義請參考[模組權限介紹](quan-xian-gong-neng-jie-shao.md) )。
 
-<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+#### 介面導覽
+
+<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
 | 項目 | 操作名稱 | 說明                            |
 | -- | ---- | ----------------------------- |
@@ -42,44 +88,89 @@ description: AI Studio 的權限管理用於控制使用者可使用的功能，
 
 #### **新增成員**
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊「添加」開&#x555F;_&#x65B0;增成&#x54E1;_&#x5C0D;話方塊
 2. 輸入框能搜尋組織或使用者
 3. 選擇對應的權限
-4. 輸入關鍵字跳出對應的組織/使用者
-5. 可點選右邊的層級按鈕確認角色的層級
-6. 選擇目標組織/使用者後，可點擊標籤打開檢視選單，檢視組織層級及角色內的所有使用者
-7. 點擊「添加」按鈕，完成邀請
+4. 這裡有兩種方式可以選擇組織/使用者
+   1. 點擊使用組織搜尋
+   2. 輸入關鍵字跳出對應的組織/使用者，可點選右邊的層級按鈕確認角色的層級
+5. 選擇目標組織/使用者後，可點擊標籤打開檢視選單，檢視組織層級及角色內的所有使用者
+6. 點擊「添加」按鈕，完成邀請
 
 #### **調整成員權限**
 
-#### **轉移權限**
+<figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+
+1. 找到欲調整權限的目標組織/使用者，對其點擊編輯按鈕
+2. 調整權限
+3. 點擊儲存，完成設定
+
+#### **轉移擁有者**
+
+<figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+
+1. 找到欲轉移擁有權的目標使用者，對其點擊轉移權限按鈕
+2. 確認轉移的使用者資訊
+3. 點擊轉移，完成設定
+
+> 注意 :&#x20;
+>
+> 1. 轉移擁有者功能僅能對使用者使用，您無法轉移擁有者給組織。
+> 2. 轉移擁有者後，object 的擁有者與創建者將自動變更為新使用者，您的 object 權限仍會維持轉移前的設定。
 
 #### **移除成員**
 
+<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+
+1. 找到欲移除的目標組織/使用者，對其點擊移除按鈕
+2. 再次確認是否移除該對象，點擊移除按鈕
+
 ### 存取權限
 
-存取權限可授予組織或個人使用者；若授予組織，則組織內所有使用者皆擁有該資料使用權限。
+存取權限可授予組織或個人使用者；若授予組織，則組織內所有使用者皆擁有該資料使用權限。這裡已知識庫的數據集作為範例。
+
+{% hint style="info" %}
+擁有存取權限設定的 object 在 AI Studio 內目前有**知識庫的數據集**，以及 **MCP 的 MCP 工具。**
+{% endhint %}
 
 #### **新增成員**
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊「知識設定選單」中的 _資料集存取權限_ 項目
 2. 點擊 按鈕為數據集批次添加權限
 3. 在「資料集」區域中選擇要設定權限的檔案
 4. 在右側區域點擊「組織」標籤頁，勾選要授予權限的組織層級
 5. 在右側區域點擊「使用者」標籤頁選擇要授予權限的使用者
-6. 在「使用者選單」中搜尋要新增的使用者，選擇完畢後點擊選單旁的「+」按鈕新增使用者
-7. 完成組織與使用者的變更後點擊右上角的「儲存」按鈕保留設定
+6. 在「使用者選單」中搜尋要新增的使用者
+7. 完成組織與使用者的變更後點擊「ok」按鈕保留設定
 
 #### **移除成員**
+
+<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+
+1. 對要移除的數據集點擊編輯按鈕
+2. 選擇要移除的組織或使用者，對其點擊移除按鈕
+3. 點擊儲存，完成設定

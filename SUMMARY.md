@@ -47,7 +47,7 @@
 ## 模板指南
 
 * [工作流程模板管理](mu-ban-zhi-nan/gong-zuo-liu-cheng-mu-ban-guan-li.md)
-* [提示模板管理](mu-ban-zhi-nan/ti-shi-mu-ban-guan-li.md)
+* [提示詞模板管理](mu-ban-zhi-nan/ti-shi-mu-ban-guan-li.md)
 
 ## 分析指南
 

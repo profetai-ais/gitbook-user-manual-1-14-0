@@ -317,10 +317,6 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 
 <figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
-## 權限
-
-權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。
-
 ## **Web App**
 
 Agent 可以嵌入到網頁中以提供問答服務，如下所示：

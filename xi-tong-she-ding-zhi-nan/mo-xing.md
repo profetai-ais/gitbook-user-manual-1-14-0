@@ -88,6 +88,14 @@ AI Studio 目前支援多種模型接入來源，包含：
 
 ## 權限
 
-角色權限說明請參照 [模組權限角色介紹](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md) 。
+{% hint style="info" %}
+模型模組僅開放給 AI Studio 管理員存取，因此沒有清單權限設定。
 
-權限使用說明請參照 [權限操作功能介紹](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md) 。
+AI Studio 角色權限介紹請參照 [AI Studio 角色與權限說明](../ru-men-zhi-nan/ai-studio-jue-se-yu-quan-xian-shuo-ming.md) 。
+{% endhint %}
+
+### 模型權限
+
+角色權限說明請參照 [模組權限角色介紹- 模型權限](../ru-men-zhi-nan/quan-xian-gong-neng-jie-shao.md#mo-xing) 。
+
+權限設定說明請參照 [權限操作功能介紹- Object 角色權限](../ru-men-zhi-nan/quan-xian-cao-zuo-gong-neng-jie-shao.md#jue-se-quan-xian) 。
