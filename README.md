@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 ## **核心功能與技術特點**
 

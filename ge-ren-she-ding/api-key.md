@@ -6,13 +6,13 @@ API Key 可讓使用者建立專屬的 API 金鑰，供外部系統呼叫 AI Stu
 
 每一把 API Key 都會綁定到建立該金鑰的使用者，系統會依據該使用者的權限判斷可存取的 API 範圍。
 
-<figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
 
 ## API Key 設定
 
 開啟 API Key 視窗後，點擊生成按鈕即可生成一組金鑰。
 
-<figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 > 注意 : API Key 建立後，完整金鑰內容只會顯示一次。基於安全性考量，系統不會再次顯示完整金鑰，也無法協助查回原始金鑰。若金鑰遺失，請刪除原金鑰後重新建立。\
 > 每位使用者最多可建立 1 把 API Key，如需產生新的 API Key，請先刪除原先的 API Key 後再重新生成。

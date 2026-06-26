@@ -10,11 +10,11 @@ description: 本頁將介紹Root權限與Object權限的操作方式。
 
 Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開啟權限管理視窗。
 
-<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
 
 ### 頁面導覽
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
 | 項目 | 操作名稱    | 說明                             |
 | -- | ------- | ------------------------------ |
@@ -24,7 +24,7 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 ### **新增成員**
 
-<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
 
 1. 輸入關鍵字搜尋欲加入的使用者
 2. 設定加入權限
@@ -32,14 +32,14 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 ### **調整成員權限**
 
-<figure><img src="../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 1. 找到欲調整權限的目標使用者
 2. 點擊右側下拉選單，調整權限
 
 ### **移除成員**
 
-<figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 1. 找到欲移除的目標使用者
 2. 點擊右側下拉選單，選擇移除
@@ -52,7 +52,7 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 權限設定位於模組的物件內， 點擊目標物件後，選擇內頁的權限分頁，即可檢視權限管理頁面，這裡已 Agent 模組為範例。
 
-<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
 
 ### 角色權限
 
@@ -68,7 +68,7 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 ### 頁面導覽
 
-<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 | 項目 | 操作名稱 | 說明                            |
 | -- | ---- | ----------------------------- |
@@ -82,17 +82,17 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 #### **新增成員**
 
-<figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊「添加」開&#x555F;_&#x65B0;增成&#x54E1;_&#x5C0D;話方塊
 2. 輸入框能搜尋組織或使用者
@@ -105,9 +105,9 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 #### **調整成員權限**
 
-<figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
 1. 找到欲調整權限的目標組織/使用者，對其點擊編輯按鈕
 2. 調整權限
@@ -115,9 +115,9 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 #### **轉移擁有者**
 
-<figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
 
 1. 找到欲轉移擁有權的目標使用者，對其點擊轉移權限按鈕
 2. 確認轉移的使用者資訊
@@ -130,9 +130,9 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 #### **移除成員**
 
-<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
 1. 找到欲移除的目標組織/使用者，對其點擊移除按鈕
 2. 再次確認是否移除該對象，點擊移除按鈕
@@ -147,9 +147,9 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 #### **新增成員**
 
-<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊「知識設定選單」中的 _資料集存取權限_ 項目
 2. 點擊 按鈕為數據集批次添加權限
@@ -161,9 +161,9 @@ Root 的權限設置會位於模組的右上角更多按鈕，點擊後即可開
 
 #### **移除成員**
 
-<figure><img src="../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 1. 對要移除的數據集點擊編輯按鈕
 2. 選擇要移除的組織或使用者，對其點擊移除按鈕

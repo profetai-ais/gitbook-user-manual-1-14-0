@@ -1,4 +1,4 @@
-# 工作流程模板管理
+# 工作流程模板
 
 ## 簡介
 
@@ -16,7 +16,7 @@
 
 此選項將建立一個空白的流程模板。
 
-<figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊右上角 "新增" 新增按鈕
 2. 「名稱」欄位中輸入知識名稱後點擊右側按鈕建立多語言標籤，請參閱 [多國語言設定](gong-zuo-liu-cheng-mu-ban-guan-li.md#duo-guo-yu-yan-she-ding)
@@ -25,7 +25,7 @@
 
 #### 多國語言設定
 
-<figure><img src="../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊畫面的「地球」按鈕進行自動翻譯，使用者也可以手動編輯內容
 2. 自動翻譯完成後點擊「確定」按鈕，儲存內容
@@ -36,7 +36,7 @@
 
 此選項讓使用者複製一個既有的工作流程模板到新的流程中編輯。
 
-<figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 1. 從模板列表中選擇要複製的模板
 2. 點擊複製按鈕
@@ -46,7 +46,7 @@
 
 此選項讓使用者從檔案匯入一個工作流程模板到新的流程中編輯。
 
-<figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊右上方更多按鈕，選擇匯入檔案
 2. 點擊 "檔案上傳區" 選擇要匯入的模板檔案 (副檔名為 `.pwflow` 的檔案)

@@ -8,13 +8,13 @@ description: >-
 
 ## **新增大語言模型**
 
-<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
 1. 進入後，點擊右上角 「＋新增」 開始設定。
 2. 選擇服務商 (例如：OpenAI / Azure / Gemini / Ollama / Claude)
@@ -46,7 +46,7 @@ description: >-
 
 ### 常見問題：模型 Logo 與實際串接供應商不一致
 
-<figure><img src="../.gitbook/assets/image (304).png" alt="" width="561"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (313).png" alt="" width="561"><figcaption></figcaption></figure>
 
 在模型管理頁面中，模型 Logo 會依據建立模型時所選擇的供應商（Provider）進行顯示。
 

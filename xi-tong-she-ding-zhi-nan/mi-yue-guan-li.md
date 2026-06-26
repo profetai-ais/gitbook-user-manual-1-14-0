@@ -8,15 +8,15 @@ description: 本頁面用於集中管理系統所需的密鑰（API Key）。透
 
 進入「Key Management」頁面後，畫面會顯示目前已建立的密鑰清單，欄位說明如下：
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="210">名稱</th><th>說明</th></tr></thead><tbody><tr><td>Type</td><td>密鑰類型（例如 SERPER、LiteLLM），代表此金鑰所對應的服務種類</td></tr><tr><td>Name</td><td>密鑰名稱，用於識別此 API Key 的用途</td></tr><tr><td>Key</td><td>API Key 值，為安全考量僅以遮罩方式顯示</td></tr><tr><td>Tenant ID</td><td>所屬租戶識別碼</td></tr><tr><td>Expire Date</td><td>密鑰到期時</td></tr><tr><td>Creator</td><td>建立者</td></tr><tr><td>Created Date</td><td>建立時間</td></tr><tr><td>Modified Date</td><td>最後更新時間</td></tr><tr><td>Actions</td><td>操作功能，目前提供刪除（垃圾桶圖示）</td></tr></tbody></table>
 
 ## 新增密鑰
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊右上角「+」後，會開啟新增密鑰的設定視窗，請依序完成以下設定：
 2. Type：選擇密鑰類型。
@@ -28,9 +28,9 @@ description: 本頁面用於集中管理系統所需的密鑰（API Key）。透
 
 ## 刪除密鑰
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊該列最右側 Actions 欄位中的 垃圾桶圖示
 2. 點選確認後執行刪除動作，該密鑰會立即從清單中移除

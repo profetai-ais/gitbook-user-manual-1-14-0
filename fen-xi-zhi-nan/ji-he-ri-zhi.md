@@ -4,7 +4,7 @@
 
 稽核日誌用於記錄系統內重要物件的操作紀錄，協助管理者追蹤使用者在平台中的新增、編輯與刪除等行為。透過稽核日誌，使用者可以查看操作時間、操作人員、物件類型、物件名稱與異動內容，方便進行系統管理、問題追蹤與資料稽核。
 
-<figure><img src="../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 ## 欄位說明
 
@@ -18,7 +18,7 @@
 
 ## 查看稽核日誌內容
 
-<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 使用者可以點選清單中的操作名稱開啟稽核日誌預覽視窗，查看該筆操作的詳細內容。
 
@@ -28,7 +28,7 @@
 
 ## 搜尋與篩選
 
-<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
 
 使用者可以透過頁面上方的搜尋欄輸入名稱，快速查找特定物件的操作紀錄。
 
@@ -38,7 +38,7 @@
 
 若需要保存或進一步分析稽核紀錄，使用者可以點選右上角的**匯出**按鈕開啟匯出稽核日誌視窗。
 
-<figure><img src="../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
 匯出前可設定以下條件：
 

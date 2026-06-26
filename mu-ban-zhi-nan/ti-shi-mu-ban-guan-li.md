@@ -1,4 +1,4 @@
-# 提示詞模板管理
+# 提示詞模板
 
 ## 簡介
 
@@ -8,11 +8,11 @@
 
 ## **新增提示模板**
 
-<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 1. 點選「新增」顯示建立提示詞模板視窗
 2. 選擇提示模板類型
@@ -24,7 +24,7 @@
 
 ### 多國語言設定
 
-<figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊畫面的「地球」按鈕進行自動翻譯，使用者也可以手動編輯內容
 2. 自動翻譯完成後點擊「確定」按鈕，儲存內容
@@ -38,7 +38,7 @@
 
 ### **字段說明**
 
-<figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 _字段_ 可視為提示詞中的變數，讓使用者依實際場景提供提示詞中必要的資訊。字段有以下種類：
 

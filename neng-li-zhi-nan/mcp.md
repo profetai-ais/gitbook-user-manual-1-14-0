@@ -10,17 +10,17 @@
 * **追蹤** 開發人員新增的工具
 * **參考** 可用工具及其功能
 
-<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 ## 新增 MCP 伺服器
 
 ### 手動新增伺服器
 
-<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
 1. 到 MCP 分頁
 2. 點擊添加按鈕，選擇 External
@@ -32,9 +32,9 @@
 
 ### 從MCPHub匯入
 
-<figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
 
 1. 到 MCP 分頁
 2. 點擊添加按鈕，選擇 MCPHub

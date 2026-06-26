@@ -8,15 +8,15 @@
 
 知識中的數據集歸納方式如下圖所示：
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ## **建立新知識**
 
 ### **手動建立知識**
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 1. 點選左側選單中的「知識庫」項目
 2. 點擊畫面靠右上方的「+」按鈕
@@ -27,20 +27,20 @@
 
 ### 多國語言設定
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊畫面的「地球」按鈕進行自動翻譯，使用者也可以手動編輯內容
 2. 自動翻譯完成後點擊「儲存」按鈕，儲存內容
 
 ### **匯入知識**
 
-<figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 1. 到知識庫分頁
 2. 點擊右上角更多按鈕，選擇匯入檔案
