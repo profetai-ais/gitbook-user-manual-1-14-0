@@ -63,7 +63,3 @@
 * [配置](xi-tong-she-ding-zhi-nan/pei-zhi.md)
 * [密鑰管理](xi-tong-she-ding-zhi-nan/mi-yue-guan-li.md)
 * [標籤管理](xi-tong-she-ding-zhi-nan/biao-qian-guan-li.md)
-
-## Group 1
-
-* [忘記密碼](group-1/wang-ji-mi-ma.md)
